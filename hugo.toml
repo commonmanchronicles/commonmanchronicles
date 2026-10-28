@@ -1,0 +1,7 @@
+baseURL = 'https://commonmanchronicles.com/'
+languageCode = 'en-us'
+title = 'Common Man Chronicles'
+
+[module]
+  [[module.imports]]
+    path = "github.com/adityatelange/hugo-PaperMod"
