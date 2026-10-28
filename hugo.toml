@@ -18,3 +18,21 @@ title = 'Common Man Chronicles'
     [[params.profileMode.buttons]]
       name = "Read the Chronicles"
       url = "/posts/"
+
+      [[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+  weight = 30
