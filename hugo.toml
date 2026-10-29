@@ -1,38 +1,26 @@
-baseURL = 'https://commonmanchronicles.com/'
-languageCode = 'en-us'
-title = 'Common Man Chronicles'
+baseURL = "https://commonmanchronicles.com/"
+languageCode = "en-us"
+title = "Common Man Chronicles"
+theme = "your-theme-name" # Replace with your active Hugo theme
 
-[module]
-  [[module.imports]]
-    path = "github.com/adityatelange/hugo-PaperMod"
-    [params]
-  [params.profileMode]
-    enabled = true
-    title = "Common Man Chronicles"
-    subtitle = "Exploring the world through travel photography, poetry, travel blogs and everyday reflections."
-    imageUrl = "/images/Souvik.jpeg" 
-    imageWidth = 150
-    imageHeight = 150
-    imageTitle = "My Avatar"
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
 
-    [[params.profileMode.buttons]]
-      name = "Read the Chronicles"
-      url = "/posts/"
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
 
-      [[menu.main]]
-  identifier = "home"
-  name = "Home"
-  url = "/"
-  weight = 10
-
-[[menu.main]]
-  identifier = "posts"
-  name = "Posts"
-  url = "/posts/"
-  weight = 20
-
-[[menu.main]]
-  identifier = "tags"
-  name = "Tags"
-  url = "/tags/"
-  weight = 30
+[params]
+  subtitle = "\"Techie by Profession, Explorer by Passion!\""
+  # Placeholder for your background image. Place the image in your /static/ folder (e.g., /static/images/bg.jpg)
+  backgroundImage = "/images/bg.jpg" 
+  
+  [params.author]
+    name = "Souvik"
+    # Placeholder for your profile picture in the /static/ folder
+    avatar = "/images/profile.jpg" 
+    bio = "Hello, fellow wanderers and shutterbugs! I'm Souvik, a Technical Project Manager navigating the bustling streets of Hong Kong. Picture this: I spend my weekdays steering IT projects and troubleshooting puzzles, but come the weekend, I transform into a travel enthusiast armed with a camera and an insatiable curiosity. My family consists of four charming characters: my wonderful wife, Shuvra, who doubles as my travel planner and chief snack officer; my adventurous daughter; and my toddler son. Together, we embark on escapades that often end with laughter, a few misadventures, and a collection of photos that capture the chaos and joy of our lives."
