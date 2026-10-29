@@ -29,15 +29,33 @@
   const container = document.getElementById('comments-container');
   const form = document.getElementById('comment-form');
 
-  // 1. Fetch and display existing comments
+  // 1. Fetch and display existing comments with Exception Handling
   fetch(scriptURL + "?postName=" + encodeURIComponent(postTitle))
-    .then(response => response.json())
+    .then(response => response.text()) // Fetch as text first to prevent JSON parse crashes
+    .then(text => {
+      try {
+        return JSON.parse(text);
+      } catch (err) {
+        throw new Error("Google returned invalid JSON. It might be an HTML login or error page.");
+      }
+    })
     .then(data => {
-      container.innerHTML = ''; // Clear loading text
-      if (data.length === 0) {
+      container.innerHTML = ''; 
+      
+      // Handle explicit errors thrown by our new Apps Script
+      if (data.error) {
+        console.error("Apps Script API Error:", data.error);
+        container.innerHTML = `<p style="color: red;">Backend Error: ${data.error}</p>`;
+        return;
+      }
+      
+      // Handle the empty state correctly
+      if (!Array.isArray(data) || data.length === 0) {
         container.innerHTML = '<p style="color: #777;">No comments yet. Be the first!</p>';
         return;
       }
+      
+      // Render comments
       data.forEach(item => {
         const div = document.createElement('div');
         div.style = "margin-bottom: 15px; padding: 10px; background: white; border-radius: 4px; border: 1px solid #eee;";
@@ -46,7 +64,8 @@
       });
     })
     .catch(error => {
-      container.innerHTML = '<p style="color: red;">Error loading comments.</p>';
+      console.error("Frontend Fetch Error:", error);
+      container.innerHTML = '<p style="color: red;">Error loading comments. Check your browser console (F12) for the exact error message.</p>';
     });
 
   // 2. Handle new comment submission
@@ -57,14 +76,19 @@
     submitBtn.disabled = true;
 
     fetch(scriptURL, { method: 'POST', body: new FormData(form) })
-      .then(response => {
+      .then(response => response.json())
+      .then(data => {
+        if (data.error) throw new Error(data.error);
         form.reset();
         submitBtn.innerText = 'Submit Comment';
         submitBtn.disabled = false;
         document.getElementById('success-msg').style.display = 'block';
-        // Hide success message after 4 seconds
         setTimeout(() => document.getElementById('success-msg').style.display = 'none', 4000);
       })
-      .catch(error => console.error('Error!', error.message));
+      .catch(error => {
+        console.error('Submission Error!', error.message);
+        submitBtn.innerText = 'Error! Try Again.';
+        submitBtn.disabled = false;
+      });
   });
 </script>
