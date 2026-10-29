@@ -24,5 +24,5 @@ title = "Common Man Chronicles"
   [params.author]
     name = "Souvik"
     # Placeholder for your profile picture in the /static/ folder
-    avatar = "/images/profile.jpg" 
+    avatar = "/images/Souvik.jpeg" 
     bio = "Hello, fellow wanderers and shutterbugs! I'm Souvik, a Technical Project Manager navigating the bustling streets of Hong Kong. Picture this: I spend my weekdays steering IT projects and troubleshooting puzzles, but come the weekend, I transform into a travel enthusiast armed with a camera and an insatiable curiosity. My family consists of four charming characters: my wonderful wife, Shuvra, who doubles as my travel planner and chief snack officer; my adventurous daughter; and my toddler son. Together, we embark on escapades that often end with laughter, a few misadventures, and a collection of photos that capture the chaos and joy of our lives."
