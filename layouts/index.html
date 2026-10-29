@@ -107,6 +107,49 @@
     text-align: left;
     color: #444;
   }
+
+/* --- MOBILE RESPONSIVE LAYOUT --- */
+  @media (max-width: 768px) {
+    
+    /* Center the top navigation instead of fixing it to the top right */
+    .top-nav {
+      position: relative;
+      top: 0;
+      right: 0;
+      margin-bottom: 20px;
+    }
+    .top-nav a {
+      margin: 0 10px;
+    }
+
+    /* Shrink the main header text for smaller screens */
+    .hero-header {
+      padding: 40px 15px;
+    }
+    .hero-title {
+      font-size: 2.2rem;
+    }
+    .hero-subtitle {
+      font-size: 1.1rem;
+    }
+
+    /* Stack the Left and Right columns vertically */
+    .content-wrapper {
+      flex-direction: column;
+      gap: 30px;
+      margin: 20px auto;
+    }
+
+    /* Make the post thumbnails stretch across the screen and stack above the post title */
+    .post-card {
+      flex-direction: column;
+    }
+    .post-image {
+      width: 100%;
+      height: 200px; /* Keeps image heights consistent */
+    }
+  }
+  
 </style>
 
 <!-- Hero Section -->
