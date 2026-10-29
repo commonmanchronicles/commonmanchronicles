@@ -37,29 +37,18 @@ After checkout, I visited Hulishan Fortress, home to over 200 cannons overlookin
 
 Then came the trip highlight. Outside the fort, an auntie rented me an e-scooter. My dream of riding an e-scooter in Nanjing may have died, but Xiamen happily brought it back to life. For the next 20 km, I cruised up and down the coastline with beaches on one side and city views on the other. No schedule, no meetings, no Teams notifications. Just pure happiness. 
 
-_Dreams stalled in Nanjing, my scooter plans turned to dust,
-
-The mountains said, “No chance, mate,” so I boarded buses out of trust.
-
-Then Xiamen winked, sent an auntie my way,
-
-Who handed me an e-scooter and absolutely made my day.
-
-Twenty kilometers of coastline, beach breeze set to "delight",
-
-With my hair attempting a comeback and losing every fight.
-
-At twenty-five km/h, I wasn't breaking any speed record chart,
-
-But for one glorious hour, I was Vin Diesel with a tourist pass and a weak heart.
-
-The sea hummed a soundtrack, the sunset put on a show,
-
-And every kilometer whispered, “Mate, you really shouldn't go.”
-
-Still, one thought kept following me through every gust and every bend,
-
-I missed Sanjukta, my favourite travel partner, critic, and best friend._
+_Dreams stalled in Nanjing, my scooter plans turned to dust,_
+_The mountains said, “No chance, mate,” so I boarded buses out of trust._
+_Then Xiamen winked, sent an auntie my way,_
+_Who handed me an e-scooter and absolutely made my day._
+_Twenty kilometers of coastline, beach breeze set to "delight",_
+_With my hair attempting a comeback and losing every fight._
+_At twenty-five km/h, I wasn't breaking any speed record chart,_
+_But for one glorious hour, I was Vin Diesel with a tourist pass and a weak heart._
+_The sea hummed a soundtrack, the sunset put on a show,_
+_And every kilometer whispered, “Mate, you really shouldn't go.”_
+_Still, one thought kept following me through every gust and every bend,_
+_I missed Sanjukta, my favourite travel partner, critic, and best friend._
 
 ![Xiamen-02](/images/Xiamen-02.png)
 
