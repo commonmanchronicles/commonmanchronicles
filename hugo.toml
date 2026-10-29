@@ -21,7 +21,7 @@ title = "Common Man Chronicles"
   # Placeholder for your background image. Place the image in your /static/ folder (e.g., /static/images/bg.jpg)
   backgroundImage = "/images/bg.jpg" 
   
-  [params.author]
+  [params.about_me]
     name = "Souvik"
     # Placeholder for your profile picture in the /static/ folder
     avatar = "/images/Souvik.jpeg" 
