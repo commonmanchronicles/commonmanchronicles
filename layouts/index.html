@@ -179,18 +179,16 @@
 <!-- Main Content Area -->
 <div class="content-wrapper">
   
-  <!-- Left Side: Recent Posts -->
+  <!-- Left Side: Recent Posts Grid -->
   <main class="posts-column">
-    {{ range first 5 .Site.RegularPages }}
+    {{ range first 6 .Site.RegularPages }}
       <a href="{{ .Permalink }}" class="post-card">
-        <!-- Assuming you define an 'image' variable in your post's front matter -->
         {{ if .Params.image }}
           <img src="{{ .Params.image }}" alt="{{ .Title }}" class="post-image">
         {{ end }}
         <div class="post-content">
           <div class="post-meta">{{ .Date.Format "Jan 2, 2006" }} · {{ .ReadingTime }} min read</div>
           <h2>{{ .Title }}</h2>
-          <p>{{ .Summary | truncate 120 }}</p>
         </div>
       </a>
     {{ end }}
