@@ -20,7 +20,7 @@ title = "Common Man Chronicles"
   subtitle = "\"Techie by Profession, Explorer by Passion!\""
   # Placeholder for your background image. Place the image in your /static/ folder (e.g., /static/images/bg.jpg)
   backgroundImage = "/images/bg.jpg" 
-  
+  comments = true
   [params.about_me]
     name = "Souvik"
     # Placeholder for your profile picture in the /static/ folder
