@@ -1,0 +1,153 @@
+{{ define "main" }}
+<style>
+  /* Header & Background Image */
+  .hero-header {
+    background-image: url('{{ .Site.Params.backgroundImage }}');
+    background-size: cover;
+    background-position: center;
+    color: #333;
+    padding: 60px 20px;
+    text-align: center;
+    position: relative;
+  }
+  
+  /* Top Right Navigation */
+  .top-nav {
+    position: absolute;
+    top: 20px;
+    right: 40px;
+  }
+  .top-nav a {
+    margin-left: 20px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    font-size: 1.1rem;
+  }
+
+  .hero-title {
+    font-size: 3rem;
+    margin-bottom: 10px;
+  }
+  
+  .hero-subtitle {
+    font-size: 1.5rem;
+    font-style: italic;
+    background: rgba(255, 255, 255, 0.8);
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 4px;
+  }
+
+  /* Two-Column Layout */
+  .content-wrapper {
+    display: flex;
+    max-width: 1200px;
+    margin: 40px auto;
+    gap: 40px;
+    padding: 0 20px;
+  }
+
+  /* Left Column: Posts */
+  .posts-column {
+    flex: 6.5; /* Takes up roughly 65% of the width */
+  }
+
+  .post-card {
+    display: flex;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .post-card:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+
+  .post-image {
+    width: 200px;
+    object-fit: cover;
+  }
+
+  .post-content {
+    padding: 20px;
+    flex: 1;
+  }
+  
+  .post-meta {
+    font-size: 0.85rem;
+    color: #777;
+    margin-bottom: 10px;
+  }
+
+  /* Right Column: About Me */
+  .about-column {
+    flex: 3.5; /* Takes up roughly 35% of the width */
+    background-color: #fcf9f2; /* Light beige matching the image */
+    padding: 30px;
+    border-radius: 8px;
+    text-align: center;
+  }
+
+  .about-avatar {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    object-fit: cover;
+  }
+
+  .about-bio {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    text-align: left;
+    color: #444;
+  }
+</style>
+
+<!-- Hero Section -->
+<header class="hero-header">
+  <nav class="top-nav">
+    {{ range .Site.Menus.main }}
+      <a href="{{ .URL }}">{{ .Name }}</a>
+    {{ end }}
+  </nav>
+  <h1 class="hero-title">{{ .Site.Title }}</h1>
+  <div class="hero-subtitle">{{ .Site.Params.subtitle }}</div>
+</header>
+
+<!-- Main Content Area -->
+<div class="content-wrapper">
+  
+  <!-- Left Side: Recent Posts -->
+  <main class="posts-column">
+    {{ range first 5 .Site.RegularPages }}
+      <a href="{{ .Permalink }}" class="post-card">
+        <!-- Assuming you define an 'image' variable in your post's front matter -->
+        {{ if .Params.image }}
+          <img src="{{ .Params.image }}" alt="{{ .Title }}" class="post-image">
+        {{ end }}
+        <div class="post-content">
+          <div class="post-meta">{{ .Date.Format "Jan 2, 2006" }} · {{ .ReadingTime }} min read</div>
+          <h2>{{ .Title }}</h2>
+          <p>{{ .Summary | truncate 120 }}</p>
+        </div>
+      </a>
+    {{ end }}
+  </main>
+
+  <!-- Right Side: Who Am I? -->
+  <aside class="about-column">
+    <h2>Who Am I?</h2>
+    <img src="{{ .Site.Params.author.avatar }}" alt="{{ .Site.Params.author.name }}" class="about-avatar">
+    <div class="about-bio">
+      <p>{{ .Site.Params.author.bio }}</p>
+    </div>
+  </aside>
+  
+</div>
+{{ end }}
