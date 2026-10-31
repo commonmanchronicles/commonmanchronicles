@@ -1,5 +1,6 @@
 ---
-July 23 2025
+title: "A Nightmare Called '2024'"
+date: 2025-07-23
 ----
 
 Ah, another new year— that magical time when we all make resolutions, we know we’ll abandon by week two. I had the classic goals lined up: save money, cut expenses, and get fit. Spoiler alert: by the end of January, I was pretty much sure to remain the same couch potato I’ve always been. But 2024 had other plans for me.
