@@ -2,7 +2,8 @@
 title: "A Solo Weekend Trip to Shaoguan"
 date: 2025-07-21
 draft: false
-image: "/images/ShaoguanTravelog/Shaoguan02.jpeg"
+cover:
+  image: "/images/ShaoguanTravelog/Shaoguan02.jpeg"
 comments: true
 ---
 
