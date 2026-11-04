@@ -1,5 +1,6 @@
 ---
 title: "Solo Trip to Xiamen & Fujian Tulou: A Perfectly Imperfect Adventure"
+image: "/images/XiamenTravelog/Xiamen-03.jpg"
 date: 2026-07-27
 ---
 
@@ -19,7 +20,7 @@ My dream of renting an e-scooter and zooming through the mountains evaporated qu
 
 Tianluokeng greeted me with its iconic “Four Dishes and One Soup” layout, and I hiked down into the courtyards to feel the scale from the inside. It was amazing to see real people still living in the Tulous. It is not just a tourist attraction, but a livelihood for the people there. Yuchanglou, the 700-year-old leaning marvel, was a photographer’s playground, and the highlight of the day was an unforgettable lunch of Fried River Shrimp and Stuffed Tofu cooked by an 85-plus-year-old superwoman who runs her tiny home eatery entirely by herself. Taxia Village was pure serenity, a 4-5 km riverside walk with zero crowds and a soundtrack provided by the flowing stream.
 
-![Xiamen-01](/images/Xiamen-01.png)
+![Xiamen-01](/images/XiamenTravelog/Xiamen-01.png)
 
 Right on cue, Fujian’s dramatic summer thunderstorms rolled in. Visibility dropped to zero, and the mountains turned into a watercolour blur. I skipped Hekeng, the actual shooting location of Mulan, because once you’re drenched, all earthen castles look identical anyway. I preponed my return ticket and rolled back into Xiamen while the evening was still young. Back in Xiamen, I did the only sensible thing after a day of ancient Tulous and thunderstorms: freshened up until I felt human again.
 
@@ -61,7 +62,7 @@ _Still, one thought kept following me through every gust and every bend,_
 
 _I missed Sanjukta, my favourite travel partner, critic, and best friend._
 
-![Xiamen-02](/images/Xiamen-02.png)
+![Xiamen-02](/images/XiamenTravelog/Xiamen-02.png)
 
 After collecting my luggage and squeezing in a final foot spa near the station, I boarded my train home. Meanwhile, Typhoon Nalo was busy causing trouble across Hong Kong and moving inland into China. The train left on time. And then it happened. Somewhere between Xiamen and Shenzhen, the train abruptly stopped.
 
