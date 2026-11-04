@@ -1,5 +1,6 @@
 ---
 title: "Shaken, Not Sprained: A Common Man’s Guide to Surviving Midlife"
+image: "/images/ShakenNotSprained/ShakenNotSprained.jpg"
 date: 2026-10-02
 ---
 **Act 1: The Diagnosis We Used to Mock**
@@ -52,4 +53,4 @@ So here we are. The midlife crisis isn't an urban legend, a punchline from a 90s
 The goal now isn't to frantically run away from it, nor is it to treat the gym as a temporary panic response until the crisis blows over. The goal is to survive it with a grin, keep the joints oiled, sip a well-balanced cocktail or a clean pour of whiskey, and make sure that this time, the healthy habits actually stick for the long haul.
 
 Caps off to the next chapter of life.
-![Shaken..Not Sprained](/images/ShakenNotSprained.jpg)
+![Shaken..Not Sprained](/images/ShakenNotSprained/ShakenNotSprained.jpg)
