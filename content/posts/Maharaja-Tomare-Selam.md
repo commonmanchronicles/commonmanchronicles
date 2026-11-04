@@ -102,7 +102,7 @@ Kurnish kore taito boli .... moharaja ... tomare selam.
 
 
 
-মহারাজা ... তোমারে সেলাম
+**মহারাজা ... তোমারে সেলাম**
 
 
 
