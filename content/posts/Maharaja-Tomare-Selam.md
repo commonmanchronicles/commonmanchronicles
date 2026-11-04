@@ -100,7 +100,7 @@ Kurnish kore taito boli .... moharaja ... tomare selam.
 
 
 
-
+<span style="font-size: 3.5rem; font-weight: bold;">**মহারাজা ... তোমারে সেলাম**</span>
 
 **মহারাজা ... তোমারে সেলাম**
 
