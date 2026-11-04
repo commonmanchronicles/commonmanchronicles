@@ -6,7 +6,7 @@ cover:
   image: "/images/Poetrylog/SatyajitRay.jpeg"
 comments: true
 ---
-
+  
  
 Tomar shonge prothom alap pach bochhorer jonmodine \
 Shondesh name potrika ek, enechhilen baba kine \
