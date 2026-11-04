@@ -13,12 +13,20 @@ Tomar shonge prothom alap pach bochhorer jonmodine.
 Shondesh name potrika ek, enechhilen baba kine. 
 
 Grishmokaler chhutichhutite gugababar shonge dekha. 
-Kalponik ek jadur jogot, niye tomar dadur lekha. 
+
+Kalponik ek jadur jogot, niye tomar dadur lekha.
+
+
 
 Bhooter rajar borer jore hoy je shohoj khaoya ghora. 
+
 Juto pore, tali mere, gan shuniye pathor kora. 
+
 Mishti diye jay je rokha halla shundi rajar lorai. 
+
 Hirok rajar deshe giyei, hirok rajar mogoj dholai. 
+
+
 
 Pother panchali dekhar shomoy, amii apu mone mone. 
 Durga jokhon chole gelo, jol jomechhilo chokher kone. 
@@ -75,6 +83,7 @@ Kurnish kore taito boli .... moharaja ... tomare selam.
 
 
 
+
 ভূতের রাজার বরের জোরে হয় যে সহজ খাওয়া ঘোরা ।
 
 জুতো পরে, তালি মেরে, গান শুনিয়ে পাথর করা ॥
@@ -82,6 +91,7 @@ Kurnish kore taito boli .... moharaja ... tomare selam.
 মিষ্টি দিয়ে যায় যে রোখা হাল্লা শুন্ডি রাজার লড়াই ।
 
 হীরক রাজার দেশে গিয়েই, হীরক রাজার মগজ ধোলাই ॥
+
 
 
 
