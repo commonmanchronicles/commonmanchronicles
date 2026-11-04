@@ -8,92 +8,51 @@ comments: true
 ---
 
 
-Tomar shonge prothom alap pach bochhorer jonmodine. 
+Tomar shonge prothom alap pach bochhorer jonmodine.
 
 Shondesh name potrika ek, enechhilen baba kine. 
 
 Grishmokaler chhutichhutite gugababar shonge dekha. 
-
 Kalponik ek jadur jogot, niye tomar dadur lekha. 
 
-
-
 Bhooter rajar borer jore hoy je shohoj khaoya ghora. 
-
 Juto pore, tali mere, gan shuniye pathor kora. 
-
 Mishti diye jay je rokha halla shundi rajar lorai. 
-
 Hirok rajar deshe giyei, hirok rajar mogoj dholai. 
 
-
-
 Pother panchali dekhar shomoy, amii apu mone mone. 
-
 Durga jokhon chole gelo, jol jomechhilo chokher kone. 
-
 Kash phuler oi math periye, relgarir kalo dhowa. 
-
 Oshadharon drissho she ek, peye tomar hater chhowa. 
 
-
-
 Bochhor koyek porer kotha, tokhon ami baro tero. 
-
 Hate pelam shongroho ek, namta je tar ebaro baro. 
-
 Shondehoprobon shadhon babu, chitrokar ek gogon babu. 
-
 Bohurupi, treiner kamra, ei opodartho ke korlo kabu. 
 
-
-
 Ekush rojoni sen rode, detective ek thaken jini. 
-
 Shondha shoshi bondhu she je, feluda name takei chini. 
-
 Bhaipo topshe shonge niye onushondhan tar je pesha. 
-
 Arek shonggi lalmohon babu, tenar abar lekhar nesha. 
 
-
-
 Kella fote koren tini, bombeteder koren kabu. 
-
 Mogojastrer proyog fole nastanabud mogon babu. 
-
 Kathmandu, chinnomosta jotoi hok remake abar. 
-
 Feluda kintu shoumitro, gethe diyechho mone shobar. 
 
-
-
 Tulshibabur poroshpathor, chhobibabur jolshaghor. 
-
 Shei doshoker shera chhobi, tumi i chitronattokar. 
-
 Mohanogor, charulota, mohanayoker nayok chhobi. 
-
 Oronner din ratri, kingbodonti aj o shobi. 
 
-
-
 Bonkubabur bondhu niye spielberg-er chhobi ET. 
-
 Professor shonku, tarinikhuro shobai tomar omor srishti. 
-
 Boiyer molate kimba patay tomar akar dam je onek. 
-
 Agontuker chintadhara ogrogami jojon khanek. 
 
-
-
 Oscar peye bangalider korle tumi uchu matha. 
-
 Nokkhotro acho hoye tao bhulini tomar kotha. 
-
 HKBA-er art venture-e abar tomay phire pelam. 
-
 Kurnish kore taito boli .... moharaja ... tomare selam.
 
 
@@ -102,7 +61,7 @@ Kurnish kore taito boli .... moharaja ... tomare selam.
 
 <span style="font-size: 3.5rem; font-weight: bold;">**মহারাজা ... তোমারে সেলাম**</span>
 
-**মহারাজা ... তোমারে সেলাম**
+
 
 
 
