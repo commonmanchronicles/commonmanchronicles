@@ -1,6 +1,7 @@
 ---
 title: "Shaken, Not Sprained: A Common Man’s Guide to Surviving Midlife"
-image: "/images/ShakenNotSprained/ShakenNotSprained.jpg"
+cover:
+  image: "/images/ShakenNotSprained/ShakenNotSprained.jpg"
 date: 2026-10-02
 ---
 **Act 1: The Diagnosis We Used to Mock**
