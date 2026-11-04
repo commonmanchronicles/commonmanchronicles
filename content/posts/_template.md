@@ -2,7 +2,8 @@
 title: "Your Post Title Here"
 date: 2026-11-02
 draft: true
-image: "/images/Miscellaneous/your-thumbnail.jpg"
+cover:
+  image: "/images/Miscellaneous/your-thumbnail.jpg"
 comments: true
 ---
 
