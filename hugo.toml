@@ -19,10 +19,10 @@ title = "Common Man Chronicles"
 [params]
   subtitle = "\"Techie by Profession, Explorer by Passion!\""
   # Placeholder for your background image. Place the image in your /static/ folder (e.g., /static/images/bg.jpg)
-  backgroundImage = "/images/bg.jpg" 
+  backgroundImage = "/images/Generic/bg.jpg" 
   comments = true
   [params.about_me]
     name = "Souvik"
     # Placeholder for your profile picture in the /static/ folder
-    avatar = "/images/Souvik.jpeg" 
+    avatar = "/images/Generic/Souvik.jpeg" 
     bio = "Hello, fellow wanderers and shutterbugs! My name is Souvik. IT Guy by Weekday. Explorer & Photographer by Weekend. Dad 24/7. My crew? One brilliant wife who vets the travel plans, one curious daughter who questions the plans, and one toddler son who follows absolutely no plan whatsoever. Together, we explore hidden corners of Hong Kong and wherever else cheap flights, curiosity and annual leave take us. Expect travel stories, photography, food adventures, family mishaps and occasional evidence that I should never be trusted in a kitchen. I’m not here to sell you the “perfect life”. Ours is wonderfully chaotic, slightly blurry and usually running fifteen minutes late. Just an ordinary family collecting extraordinary memories, one wrong turn at a time."
