@@ -1,5 +1,6 @@
 ---
 title: "A Hilarious Adventure in the Skies: My Air India Experience"
+image: "/images/Miscellaneous/AirIndia.jpg"
 date: 2025-08-09
 ---
 Flying with Air India is always an adventure, and my recent journey from Hong Kong to Delhi was no exception. Buckle up, because I’m about to take you on a breezy ride through the chaotic skies!
