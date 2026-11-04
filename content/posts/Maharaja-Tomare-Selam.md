@@ -1,6 +1,11 @@
-
-
-
+---
+title: "Maharaja Tomare Selaam - A tribute to Styajit Ray"
+date: 2021-09-15
+draft: false
+cover:
+  image: "/images/Poetrylog/SatyajitRay.jpeg"
+comments: true
+---
 
 
 Tomar shonge prothom alap pach bochhorer jonmodine. 
