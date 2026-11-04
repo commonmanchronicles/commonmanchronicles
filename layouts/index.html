@@ -183,8 +183,8 @@
   <main class="posts-column">
     {{ range first 6 .Site.RegularPages }}
       <a href="{{ .Permalink }}" class="post-card">
-        {{ if .Params.image }}
-          <img src="{{ .Params.image }}" alt="{{ .Title }}" class="post-image">
+        {{ if .Params.cover.image }}
+          <img src="{{ .Params.cover.image }}" alt="{{ .Title }}" class="post-image">
         {{ end }}
         <div class="post-content">
           <div class="post-meta">{{ .Date.Format "Jan 2, 2006" }} · {{ .ReadingTime }} min read</div>
