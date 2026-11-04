@@ -8,30 +8,21 @@ comments: true
 ---
 
 
-Tomar shonge prothom alap pach bochhorer jonmodine.
+Tomar shonge prothom alap pach bochhorer jonmodine.\
+Shondesh name potrika ek, enechhilen baba kine. \
+Grishmokaler chhutichhutite gugababar shonge dekha.\
+Kalponik ek jadur jogot, niye tomar dadur lekha.\
+<br><br>
+Bhooter rajar borer jore hoy je shohoj khaoya ghora.\
+Juto pore, tali mere, gan shuniye pathor kora.\
+Mishti diye jay je rokha halla shundi rajar lorai.\ 
+Hirok rajar deshe giyei, hirok rajar mogoj dholai.\
+<br><br>
 
-Shondesh name potrika ek, enechhilen baba kine. 
-
-Grishmokaler chhutichhutite gugababar shonge dekha. 
-
-Kalponik ek jadur jogot, niye tomar dadur lekha.
-
-
-
-Bhooter rajar borer jore hoy je shohoj khaoya ghora. 
-
-Juto pore, tali mere, gan shuniye pathor kora. 
-
-Mishti diye jay je rokha halla shundi rajar lorai. 
-
-Hirok rajar deshe giyei, hirok rajar mogoj dholai. 
-
-
-
-Pother panchali dekhar shomoy, amii apu mone mone. 
-Durga jokhon chole gelo, jol jomechhilo chokher kone. 
-Kash phuler oi math periye, relgarir kalo dhowa. 
-Oshadharon drissho she ek, peye tomar hater chhowa. 
+Pother panchali dekhar shomoy, amii apu mone mone. \
+Durga jokhon chole gelo, jol jomechhilo chokher kone. \ 
+Kash phuler oi math periye, relgarir kalo dhowa. \
+Oshadharon drissho she ek, peye tomar hater chhowa. \ 
 
 Bochhor koyek porer kotha, tokhon ami baro tero. 
 Hate pelam shongroho ek, namta je tar ebaro baro. 
