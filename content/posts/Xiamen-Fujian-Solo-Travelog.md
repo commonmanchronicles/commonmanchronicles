@@ -1,6 +1,7 @@
 ---
 title: "Solo Trip to Xiamen & Fujian Tulou: A Perfectly Imperfect Adventure"
-image: "/images/XiamenTravelog/Xiamen-03.jpg"
+cover:
+  image: "/images/XiamenTravelog/Xiamen-03.jpg"
 date: 2026-07-27
 ---
 
