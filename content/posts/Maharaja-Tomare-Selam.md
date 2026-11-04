@@ -19,14 +19,14 @@ Mishti diye jay je rokha halla shundi rajar lorai \
 Hirok rajar deshe giyei, hirok rajar mogoj dholai. \
 <br>
 Pother panchali dekhar shomoy, amii apu mone mone \
-Durga jokhon chole gelo, jol jomechhilo chokher kone \ 
+Durga jokhon chole gelo, jol jomechhilo chokher kone \
 Kash phuler oi math periye, relgarir kalo dhowa \
-Oshadharon drissho she ek, peye tomar hater chhowa. \ 
+Oshadharon drissho she ek, peye tomar hater chhowa. \
 <br>
 Bochhor koyek porer kotha, tokhon ami baro tero \
-Hate pelam shongroho ek, namta je tar ebaro baro \ 
-Shondehoprobon shadhon babu, chitrokar ek gogon babu \ 
-Bohurupi, treiner kamra, ei opodartho ke korlo kabu. \ 
+Hate pelam shongroho ek, namta je tar ebaro baro \
+Shondehoprobon shadhon babu, chitrokar ek gogon babu \
+Bohurupi, treiner kamra, ei opodartho ke korlo kabu. \
 <br>
 Ekush rojoni sen rode, detective ek thaken jini \
 Shondha shoshi bondhu she je, feluda name takei chini \
@@ -39,11 +39,11 @@ Kathmandu, chinnomosta jotoi hok remake abar \
 Feluda kintu shoumitro, gethe diyechho mone shobar. \
 <br>
 Tulshibabur poroshpathor, chhobibabur jolshaghor \
-Shei doshoker shera chhobi, tumi i chitronattokar \ 
+Shei doshoker shera chhobi, tumi i chitronattokar \
 Mohanogor, charulota, mohanayoker nayok chhobi \
 Oronner din ratri, kingbodonti aj o shobi. \
 <br>
-Bonkubabur bondhu niye spielberg-er chhobi ET \ 
+Bonkubabur bondhu niye spielberg-er chhobi ET \
 Professor shonku, tarinikhuro shobai tomar omor srishti \
 Boiyer molate kimba patay tomar akar dam je onek \
 Agontuker chintadhara ogrogami jojon khanek. \
