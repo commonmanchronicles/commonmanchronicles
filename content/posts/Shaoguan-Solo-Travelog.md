@@ -11,7 +11,7 @@ comments: true
 
 When the travel bug bites, it doesn’t care if you’ve got a full itinerary or just a weekend and a backpack full of dreams. With my family off enjoying their summer vacation in the homeland, I found myself in Hong Kong, dramatically staring out the window like a lonely soap opera character. So, I did what any self-respecting solo traveler would do—I plotted my escape. Flights? Too pricey. Time? Too short. Spirit? Unbreakable. Armed with my trusty mainland travel card and a thirst for adventure, I dove into the depths of the internet (and survived the rocky romance between Google and China) to uncover hidden gems within two hours of Shenzhen. After some serious blog sleuthing and image stalking, I landed on Shaoguan—an offbeat place that I was determined to explore. Tickets booked, backpack ready, and caffeine loaded, I was ready to turn my weekend into a whirlwind of discovery.
 
-
+![Shaoguan-Train](/images/Shaoguan Images/Shaoguan01.jpeg)
 
 Friday evening, I clocked out of work and straight into adventure mode. First stop: Lo Wu station. But not before indulging in some classic window shopping—because nothing says “solo travel prep” like pretending you’ll buy that overpriced travel backpack. Now, here’s the real travel hack: I spent the night in an overnight spa. Yes, you read that right. If you get a massage, they let you crash on their surprisingly comfy couches for free. Budget travel meets bougie relaxation!
 
