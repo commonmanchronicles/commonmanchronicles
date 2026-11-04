@@ -1,6 +1,7 @@
 ---
 title: "A Nightmare Called '2024'"
-image: "/images/Miscellaneous/NightmareOf2024.jpeg"
+cover:
+  image: "/images/Miscellaneous/NightmareOf2024.jpeg"
 date: 2025-07-23
 ---
 
