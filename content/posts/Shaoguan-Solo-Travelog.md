@@ -2,7 +2,7 @@
 title: "A Solo Weekend Trip to Shaoguan"
 date: 2025-07-21
 draft: false
-image: "/images/Shaoguan Images/Shaoguan02.jpeg"
+image: "/images/ShaoguanTravelog/Shaoguan02.jpeg"
 comments: true
 ---
 
@@ -11,7 +11,7 @@ comments: true
 
 When the travel bug bites, it doesn’t care if you’ve got a full itinerary or just a weekend and a backpack full of dreams. With my family off enjoying their summer vacation in the homeland, I found myself in Hong Kong, dramatically staring out the window like a lonely soap opera character. So, I did what any self-respecting solo traveler would do—I plotted my escape. Flights? Too pricey. Time? Too short. Spirit? Unbreakable. Armed with my trusty mainland travel card and a thirst for adventure, I dove into the depths of the internet (and survived the rocky romance between Google and China) to uncover hidden gems within two hours of Shenzhen. After some serious blog sleuthing and image stalking, I landed on Shaoguan—an offbeat place that I was determined to explore. Tickets booked, backpack ready, and caffeine loaded, I was ready to turn my weekend into a whirlwind of discovery.
 
-![Shaoguan-Train](/images/Shaoguan Images/Shaoguan01.jpeg)
+![Shaoguan-Train](/images/ShaoguanTravelog/Shaoguan01.jpeg)
 
 Friday evening, I clocked out of work and straight into adventure mode. First stop: Lo Wu station. But not before indulging in some classic window shopping—because nothing says “solo travel prep” like pretending you’ll buy that overpriced travel backpack. Now, here’s the real travel hack: I spent the night in an overnight spa. Yes, you read that right. If you get a massage, they let you crash on their surprisingly comfy couches for free. Budget travel meets bougie relaxation!
 
@@ -33,6 +33,8 @@ Armed with my trusty Google Translate and a healthy dose of optimism, I decoded 
 
 Once at the top, I had three trail options. Naturally, I chose the one that sounded easiest: a 630-meter hike to Rudder Stone. What I didn’t realize was that this was horizontal distance. The vertical reality? Around 700–800 stairs. And there I was—a 100 kg, unfit guy with a 10 kg backpack, channeling my inner Po from Kung Fu Panda. I huffed, I puffed, and I climbed like a determined dumpling.
 
+![Shaoguan-Summit](/images/ShaoguanTravelog/Shaoguan06.jpeg)
+
 But oh, the summit! The panoramic view was worth every wheeze and wobble. On the way down, I met a group of sprightly 70-somethings who were climbing like it was a morning stroll. They even took photos with me like I was some kind of celebrity. Then came a couple with a baby in a carrier, casually ascending like they were on a Sunday walk. That was my cue to reevaluate my fitness goals.
 
 Just when I thought I’d earned my cable car descent, I remembered the Linkin Park Song..."I tried so hard and got so far, In the end"...it should matter right? There were 3 trails in all. 
@@ -42,9 +44,13 @@ Trail #3 was a 1700-meter hike to Zhanglao Elder Peak. I looked at it, looked at
 
 By now, I hadn’t eaten a single morsel. I settled for an ice cream. Then it was cable car down, shuttle bus to the next spot: Xianglong Lake Wharf. The bus doesn’t drop you at the wharf. It drops you near a forest, and you walk 15 minutes through dense greenery to reach it. At the wharf—serenity. A tiny boat bobbing on glass-like water, mountains standing guard in the background. I hopped on for a peaceful 10-minute ride to the next trail: 800 meters to Yinyuan Stone. Until you realize it’s 700 stairs. Again. The bamboo forest and mountain stream made the climb cooler.
 
+![Shaoguan-Female-Sex-Organ](/images/ShaoguanTravelog/Shaoguan05.jpeg)
+
 At the top, I was… underwhelmed. No sweeping views, just a rock shaped like a female sex organ. Nature’s sense of humor, I guess. I descended, returned to the wharf, and considered calling it a day. But wait—there was still the scenic ferry ride and the hike to Yangyuan Stone. I grabbed another ice cream and powered on. The shuttle dropped me back at the second ticket counter, but no golf carts were available. So, I walked. In the sun. For 1.5 km.
 
 The scenic ferry ride took us through all the remaining spots, slowing down at key photospots. Bonus feature: a cameraman on board who insisted on taking your photo and handing you a voucher. Flash that voucher back at the pier and voila – a free photo on a key ring! Want the deluxe version? Just 30 Yuan extra. We cruised past Yangyuan Stone(shaped like a male sex organ) and made a very grown-up decision: no more stairs.
+
+![Shaoguan-Ferry](/images/ShaoguanTravelog/Shaoguan04.jpeg)
 
 Once the ferry docked, I summoned my trusty Didi cab, which arrived in 45 seconds. The ride to my hotel was another scenic 80 km journey—50 minutes of déjà vu in reverse.
 
@@ -64,7 +70,9 @@ The car dropped me off at The Shixia Site of the Maba Man, and I was instantly h
 
 History Break! In June 1958, local farmers discovered fossilized skulls here, later identified as belonging to a 129,000-year-old early Paleolithic Archaic Homo Sapiens—formally named Maba Man. In 2000, this site was declared one of the 100 greatest archaeological discoveries of 20th-century China. Fossils of nearly 40 mammal species were found here—including porcupines, bears, pandas, hyenas, tapirs, rhinos, deer, saber-toothed elephants, and orangutans.
 
-nside the cave, statues depicted Maba Man’s daily life—hunting, cooking, and caring for children. A 400-stair climb to the top of Lion Rock gave me a bird’s-eye view of Shaoguan. It was humbling to stand in a place so rich in history and human legacy.  After exiting the cave and circling the mountain, I explored the rest of the site. The pathway was serene, shaded by tall trees and scattered with dried leaves. Every 50 meters, a speaker disguised as a rock played soft, soothing music and there was the natural sound of crickets. It felt like walking through nature’s own spa.  I met a few families along the way who tried to chat, but the language barrier was real. Enter: Google Translate’s microphone feature. It saved the day and turned awkward smiles into actual conversations. Solo travel win!
+![Shaoguan-MabaMan](/images/ShaoguanTravelog/Shaoguan03.jpeg)
+
+Inside the cave, statues depicted Maba Man’s daily life—hunting, cooking, and caring for children. A 400-stair climb to the top of Lion Rock gave me a bird’s-eye view of Shaoguan. It was humbling to stand in a place so rich in history and human legacy.  After exiting the cave and circling the mountain, I explored the rest of the site. The pathway was serene, shaded by tall trees and scattered with dried leaves. Every 50 meters, a speaker disguised as a rock played soft, soothing music and there was the natural sound of crickets. It felt like walking through nature’s own spa.  I met a few families along the way who tried to chat, but the language barrier was real. Enter: Google Translate’s microphone feature. It saved the day and turned awkward smiles into actual conversations. Solo travel win!
 
 Next up: Zhaoyin Temple, Sigiriya Lion Rock Springs, and finally, the Village of the Maba Man. Replica huts and statues showcased prehistoric life. One scene had ten Maba men hunting a sabre-toothed elephant stuck in mud. Another showed women caring for children while men cooked using fire. What struck me most was the portrayal of gender equality in prehistoric family life. Respect all around.
 
