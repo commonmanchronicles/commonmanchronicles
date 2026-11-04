@@ -1,5 +1,5 @@
 ---
-title: "Maharaja Tomare Selaam - A tribute to Styajit Ray"
+title: "Maharaja Tomare Selaam - A tribute to Satyajit Ray"
 date: 2021-09-15
 draft: false
 cover:
