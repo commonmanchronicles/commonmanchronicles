@@ -1,6 +1,7 @@
 baseURL = "https://commonmanchronicles.com/"
 languageCode = "en-us"
 title = "Common Man Chronicles"
+googleAnalytics = "G-D6B4NMKYYH"
 [module]
   [[module.imports]]
     path = "github.com/adityatelange/hugo-PaperMod"
