@@ -6,6 +6,7 @@ cover:
   image: "/images/Miscellaneous/ProjectManagerLife.jpeg"
 comments: true
 ---
+<span style="font-size: 1.5rem; font-weight: bold;">Snooze Buttons and Silos: Surviving the First Hour of Life</span>
 
 The day actually is supposed to begin at 5:30 AM in a 24/7 gym. The target is to maintain a strict early-morning conditioning habit, mostly because pushing heavy metal plates around is the only way to prepare for the heavy lifting of carrying cross-functional teams across a project finish line. But reality is most days I can't even motivate myself to get out of bed to hit the gym. 
 
@@ -44,7 +45,7 @@ A stakeholder casually asks if we can add "just one little button" to the UI. I 
 **3:00 PM: The Meta-Work**
 I update the project plan to reflect the things that happened while I was busy updating the project plan. I am caught in a project management inception loop. The spreadsheets demand to be fed. I feel like Bill Murray in "Groundhog Day". 
 
-<span style="font-size: 1.5rem; font-weight: bold;">The Evening: Retreat and Regret</span>
+<span style="font-size: 1.5rem; font-weight: bold;">The Afternoon: Retreat and Regret</span>
 
 **4:00 PM: The Consensus Protocol**
 I send out a written recap of everything we discussed in the 9:30 AM meeting, so everyone can agree on what we already agreed we just discussed. In corporate IT, memory is fleeting, but a paper trail is forever. Documentation is just defense.
@@ -60,7 +61,7 @@ You’d think after years of managing enterprise IT migrations, the most gruelin
 
 When I tap my Octopus card and step off that bus back home, I am not clocking out. I am context-switching.
 
-<span style="font-size: 1.5rem; font-weight: bold;">The 8 PM Sprint: From Corporate IT to Household Scrum Master</span>
+<span style="font-size: 1.5rem; font-weight: bold;">Evening to Midnight: From Corporate IT to Household Scrum Master</span>
 
 **8:00 PM: The 90-Minute Sprint**
 I walk through the door at 8:00 PM. Forget the nine-to-five; this next hour and a half is where the actual project management happens.
