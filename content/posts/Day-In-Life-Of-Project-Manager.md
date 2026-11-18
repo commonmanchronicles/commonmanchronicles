@@ -11,7 +11,7 @@ The day actually is supposed to begin at 5:30 AM in a 24/7 gym. The target is to
 
 By the time I’m on the bus, commuting from home over to the office, I’m mentally mapping out the day. Once I reach office, there is a brief, magical window of time every morning right after that first black coffee hits my bloodstream. The sun is shining, my Wi-Fi is holding up, and I look at my meticulously crafted daily agenda with the naive optimism of a man who hasn’t yet opened Microsoft Teams.
 
-I am a Senior Technical Project Manager. With 18 years in the game, my job is essentially to herd bunch of highly professional team members who prefer to work in silos through a maze of enterprise IT infrastructure, all while pretending everything is perfectly fine.
+I am a Senior Technical Project Manager. With 19+ years in the game, my job is essentially to herd bunch of highly capable individuals who prefer to work in silos through a maze of enterprise IT infrastructure as a team, all while pretending everything is perfectly fine.
 
 Here is exactly how that usually goes.
 
@@ -28,7 +28,7 @@ I send a message to follow up on a critical task that was supposed to be done ye
 
 **11:00 AM: The "Quick Question"**
 A developer pings me: "Hey, quick question..."
-Let me save you two decades of IT experience: There is no such thing as a quick question. A "quick question" is a trap door disguised as a greeting. It usually ends with me redesigning a workflow automation logic branch or dousing a fire because someone missed adding a risk to the RAID log and now it has become an issue.
+Let me save you two decades of IT experience: There is no such thing as a quick question. A "quick question" is a trap door disguised as a greeting. It usually ends with redesigning a workflow automation logic branch or dousing a fire because someone missed adding a risk to the RAID log and now it has become an issue.
 
 <span style="font-size: 1.5rem; font-weight: bold;">The Afternoon: Lunch is a Myth and Scope is a Suggestion</span>
 
@@ -36,13 +36,13 @@ Let me save you two decades of IT experience: There is no such thing as a quick 
 I reprioritize the morning's priorities because the priorities have changed. The color-coded matrix from 8:45 AM is now completely obsolete.
 
 **1:00 PM: Lunch? Adorable.**
-A 10 minute quick lunch at my desk and then substituting a 15 minute walk with another black coffee and pure adrenaline.
+A 10-minute quick lunch at my desk (sad, I know) and then substituting a 15-minute walk with another black coffee and pure adrenaline because time is of the essence and everyone needs everything yesterday.
 
 **2:00 PM: The "Just One Little Thing" Incident**
-A stakeholder casually asks if we can add "just one little button" to the UI. I take a deep breath and gently explain that adding just one little thing to the scope is, in fact, expanding the scope. The button requires a backend API change, a security review, and a blood sacrifice to the Agile gods. We negotiate it down to "Add to Backlog" for Phase 2 which might never get prioritised.
+A stakeholder casually asks if we can add "just one little button" to the UI. I take a deep breath and gently explain that adding just one little thing to the scope is, in fact, expanding the scope. The button requires a backend API change, a security review, and a blood sacrifice to the Agile gods. We negotiate it down to "Add to Backlog" for Phase 2 which might never get prioritized because by then it would have become redundant.
 
 **3:00 PM: The Meta-Work**
-I update the project plan to reflect the things that happened while I was busy updating the project plan. I am caught in a project management inception loop. The spreadsheets demand to be fed.
+I update the project plan to reflect the things that happened while I was busy updating the project plan. I am caught in a project management inception loop. The spreadsheets demand to be fed. I feel like Bill Murray in "Groundhog Day". 
 
 <span style="font-size: 1.5rem; font-weight: bold;">The Evening: Retreat and Regret</span>
 
@@ -50,9 +50,9 @@ I update the project plan to reflect the things that happened while I was busy u
 I send out a written recap of everything we discussed in the 9:30 AM meeting, so everyone can agree on what we already agreed we just discussed. In corporate IT, memory is fleeting, but a paper trail is forever. Documentation is just defense.
 
 **5:00 PM: The Seagull Stakeholder Strikes**
-Right on schedule, a Senior Stakeholder swoops into my chat. This is the classic "Seagull Stakeholder"—they fly in out of nowhere, make a lot of noise about "shifting paradigms," drop a massive conceptual mess on my desk, and fly away. Today, they want a "high-level summary" of the rollout. I take a slow sip of my lukewarm coffee and gently point them toward the automated JIRA board I spent three weeks architecting specifically or the myriads of Status Update OneNote links that are there for different level of stakeholders, so I wouldn't have to re-create one every time. They reply with a thumbs-up emoji. I check the analytics. They did not click the link.
+Right on schedule, a Senior Stakeholder swoops into my chat. This is the classic "Seagull Stakeholder" — they fly in out of nowhere, make a lot of noise about "shifting paradigms," drop a massive conceptual mess on my desk, and fly away. Today, they want a "high-level summary" of the rollout. I take a slow sip of my lukewarm coffee and gently point them toward the automated JIRA board I spent three weeks architecting specifically for this or the myriads of Status Update OneNote links that I have prepared meticulously for different level of stakeholders. They reply with a thumbs-up emoji. I check the analytics. They did not click the link.
 
-**6:00 PM: The Final Mistake**
-I close the laptop feeling oddly accomplished. I survived. The project is actually moving forward, despite the chaos. I pack up and head for the Bus Stop. But right before I scan my Octopus card, I make the fatal error of opening Teams / Outlook on my phone one last time. A little red dot is waiting for me. Immediate, soul-crushing regret.
+**6:15 PM: The Final Mistake**
+I close the laptop feeling oddly accomplished. I survived the day. The projects are actually moving forward, despite the chaos. I pack up and head for the Bus Stop. But right before I scan my Octopus card, I make the fatal error of opening Teams / Outlook on my phone one last time. A little red dot is waiting for me. Immediate, soul-crushing regret.
 
 I swipe the notification away and put the phone in my pocket. Tomorrow, we do it all again. 🙃
